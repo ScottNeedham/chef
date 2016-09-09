@@ -1,0 +1,7 @@
+name 'Cabmate'
+maintainer 'The Authors'
+maintainer_email 'you@example.com'
+license 'all_rights'
+description 'Installs/Configures Cabmate processes'
+long_description 'Installs/Configures Cabmate processes'
+version '17.1.20'
