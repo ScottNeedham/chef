@@ -1,0 +1,7 @@
+MySQL-python
+bottle
+gevent
+greenlet
+requests
+sysv-ipc
+schedule
